@@ -102,7 +102,6 @@
 
   <br>
 
-  <img src="https://komarev.com/ghpvc/?username=capcut-pro-ultimate-mod&color=00f2fe&style=for-the-badge&label=VIEWS&abbreviated=true" alt="Views"/>
 
 </div>
 
