@@ -4,10 +4,10 @@
 
 
 
-<!-- Анимированный заголовок (Неоново-голубой стиль CapCut) -->
+
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=000000,05101a,00f2fe&height=140&section=header&text=CAPCUT%20%E2%80%A2%20PRO%20MOD&fontSize=32&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Next-Gen%20Video%20Editing%20Environment&descSize=14&descColor=4facfe" width="100%"/>
 
-<!-- Бейджи -->
+
 <p>
   <img src="https://img.shields.io/badge/VERSION-v6.2.0_LATEST-00f2fe?style=for-the-badge&logo=appveyor&logoColor=white&color=0d1117&labelColor=161b22">
   <img src="https://img.shields.io/badge/PLATFORM-WINDOWS_10/11-4facfe?style=for-the-badge&logo=windows&logoColor=4facfe&color=0d1117&labelColor=161b22">
