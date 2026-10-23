@@ -92,11 +92,7 @@
 
 ---
 
-<div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=05101a,020508,000000&height=40&section=footer" width="100%"/>
-  
-  <br>
 
   ⭐ **If this project helped your workflow, consider starring the repository.**
 
